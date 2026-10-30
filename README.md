@@ -143,6 +143,7 @@
 - 📖⚠️ [Neuron](https://neuron.zettel.page/) - Open-source app for managing plain-text notes in Zettelkasten style. Superseded by Emanote. `AGPL-3.0` `Haskell`
 - 📖🍎🤖🔒🔁 [Notesnook](https://github.com/streetwriters/notesnook) - Fully open source and end-to-end encrypted note-taking app available on all platforms. `GPL-3.0` `Web/TypeScript`
 - 📖 [Outline](https://github.com/outline/outline) - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
+- 📖🔁 [Papyra](https://github.com/lyfie-org/papyra) - Self-hosted Google Keep-style notes app where every note is a plain Markdown file. Wikilinks, live collaboration and an offline PWA. `GPL-3.0` `C#/React`
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
